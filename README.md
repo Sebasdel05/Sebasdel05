@@ -4,7 +4,7 @@
 <p align="center">
   📍 Bogotá D.C, Colombia &nbsp;|&nbsp;
   ✉️ sebasdel05@hotmail.com &nbsp;|&nbsp;
-  🔗 <a href="https://www.linkedin.com/in/TU-USUARIO">LinkedIn</a>
+  🔗 <a href="www.linkedin.com/in/sebastian-delgado-1a7ba6186">LinkedIn</a>
 </p>
 
 ---
@@ -77,5 +77,5 @@
 
 <p align="left">
   <a href="mailto:sebasdel05@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/sebastian-delgado-1a7ba6186"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
