@@ -51,6 +51,22 @@
 - Gestión de versiones y colaboración en equipo mediante Git y GitHub
 
 ---
+ 
+### 📌 Proyecto destacado
+ 
+#### 📚 LaMar — Biblioteca Feminista Digital
+ 
+Plataforma web full-stack para publicar, moderar y leer ensayos de teoría feminista, con sistema de roles (usuarias / administradoras) y flujo de aprobación de contenido.
+ 
+**Stack:** Next.js 16 (App Router) · Supabase (PostgreSQL + Auth) · Tailwind CSS v4 · Tiptap · Vercel
+ 
+- 🔐 Autenticación y control de acceso por rol (admin / usuaria)
+- 📝 Editor de texto enriquecido (Tiptap) para la redacción de ensayos
+- 🔄 Flujo de moderación: envío → revisión → aprobación/rechazo → publicación
+- 🔍 Biblioteca con búsqueda, filtros y colecciones por categoría
+🔗 [Ver repositorio](https://github.com/Sebasdel05/LaMarWeb) · 🌐 [Demo en vivo](**en desarrollo**)
+ 
+---
 
 ### 📌 Proyectos destacados
 
