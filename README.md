@@ -4,7 +4,7 @@
 <p align="center">
   📍 Bogotá D.C, Colombia &nbsp;|&nbsp;
   ✉️ sebasdel05@hotmail.com &nbsp;|&nbsp;
-  🔗 <a href="www.linkedin.com/in/sebastian-delgado-1a7ba6186">LinkedIn</a>
+  🔗 <a href="https://www.linkedin.com/in/sebastian-delgado-1a7ba6186">LinkedIn</a>
 </p>
 
 ---
